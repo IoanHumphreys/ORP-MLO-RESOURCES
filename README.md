@@ -26,6 +26,7 @@ Here there will be a list of the resources to create a functional and high quali
 • 3D Models - Make sure they are free to use non-copyright - https://sketchfab.com/feed<br/>
 • OpenIV - This will allow you to extract files from the game - https://openiv.com/<br/>
 • Codewalker - https://www.mediafire.com/file/rjqx29uc9lct2hz/CodeWalker30_dev43.zip/file<br/>
+• TexTools - This is useful for UV Wrapping - https://github.com/SavMartin/TexTools-Blender
 
 # Texture Software
 • **Paid** Substance Painter - Allows custom texturising - https://www.adobe.com/uk/products/substance3d-painter.html<br/>
