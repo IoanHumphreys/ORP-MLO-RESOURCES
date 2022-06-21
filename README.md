@@ -4,7 +4,7 @@ Here there will be a list of the resources to create a functional and high quali
 # Free Tutorials
 • https://www.youtube.com/user/TobiiCommentary<br/>
 • https://dekurwinator-mods.bitrix24.site/<br/>
-• Created Playlist **BLENDER ONLY** - SOON!<br/>
+• Created Playlist **BLENDER ONLY** - https://youtube.com/playlist?list=PLILfnmodYplkDph_c82BQeN4yWmW6jzWU<br/>
 
 # Blender Download
 • **Free** Blender Download - https://www.blender.org/download/<br/>
@@ -27,6 +27,8 @@ Here there will be a list of the resources to create a functional and high quali
 • OpenIV - This will allow you to extract files from the game - https://openiv.com/<br/>
 • Codewalker - https://www.mediafire.com/file/rjqx29uc9lct2hz/CodeWalker30_dev43.zip/file<br/>
 • TexTools - This is useful for UV Wrapping - https://github.com/SavMartin/TexTools-Blender
+• UV Wrapping - https://www.mediafire.com/file/6m1nx0ewqnsoco3/Texel_Density_3_3_1_291.zip/file
+• UV Wrapping - https://www.mediafire.com/file/rjya35rh1q6vslf/TexTools-Blender-master.zip/file
 
 # Texture Software
 • **Paid** Substance Painter - Allows custom texturising - https://www.adobe.com/uk/products/substance3d-painter.html<br/>
