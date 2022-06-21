@@ -13,7 +13,7 @@ Here there will be a list of the resources to create a functional and high quali
 • **Paid** 3DS Max - https://www.autodesk.co.uk/products/3ds-max/overview<br/>
 
 # Software Tools
-• Sollumz - This allows you to create bounds, flags, tezxtures on models ect - https://github.com/Skylumz/Sollumz **(BLENDER)**<br/>
+• Sollumz - This allows you to create bounds, flags on models - https://github.com/Skylumz/Sollumz **(BLENDER)**<br/>
 • GIMS Evo - https://www.gta5-mods.com/tools/gims-evo-with-gta-v-support **(3DS MAX)**<br/>
 • Map Helper - https://www.gta5-mods.com/tools/gta-v-map-helper-maxscript **(3DS MAX)**<br/>
 • Texture Toolkit - This will allow you to replace original gta5 texuture files with your own - https://pl.gta5-mods.com/tools/texture-toolkit<br/>
